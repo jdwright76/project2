@@ -1,0 +1,31 @@
+{
+    "name": "team-project-2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "ACon.js",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "path": "^0.12.7",
+        "request": "^2.88.0",
+        "xmlhttprequest": "^1.8.0"
+    },
+    "devDependencies": {
+        "fs": "0.0.1-security",
+        "nodemon": "^1.19.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon ACon.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Barbara-Gordon/Team-Project-2.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Barbara-Gordon/Team-Project-2/issues"
+    },
+    "homepage": "https://github.com/Barbara-Gordon/Team-Project-2#readme"
+}
